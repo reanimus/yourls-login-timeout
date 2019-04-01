@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: Login Timeout
+Plugin URI: https://github.com/reanimus/yourls-login-timeout
 Description: Adds a cap to the number of failed logins with configurable timeout.
 Version: 1.0
 Author: Alex Guzman
